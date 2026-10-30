@@ -1,4 +1,4 @@
-# 🚆 Smart Railway Platform Clock & Announcement Controller
+#  Smart Railway Platform Clock & Announcement Controller
 
 > **🔧 Embedded C | LPC2148 (ARM7) | ⏰ RTC | 🖥️ LCD | 🔢 4×4 Keypad | 🚦 LEDs | 🔔 Buzzer**
 
